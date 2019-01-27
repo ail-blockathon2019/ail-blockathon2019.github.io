@@ -212,7 +212,29 @@ body {
 	color: white;
 }
 
+#files {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 85%;
+  margin-bottom: 20px;
+}
 
+#files td, #files th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#files tr:nth-child(even){background-color: #A4A4A4;}
+
+#files tr:hover {background-color: #ddd;}
+
+#files th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #086d7a;
+  color: white;
+}
 
 
 
