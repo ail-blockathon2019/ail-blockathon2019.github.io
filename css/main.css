@@ -236,6 +236,30 @@ body {
   color: white;
 }
 
+/* .file-submit {
+  background-color: #086d7a;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin-left: 200px;
+ margin-bottom: 20px;
+  font-size: 16px;
+  border-radius: 25px;
+  align: center;
+}
+*/
+.file-select {
+  background-color: #086d7a;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin-left: 200px;
+  font-size: 16px;
+  border-radius: 25px;
+}
+
 
 
 
