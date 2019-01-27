@@ -164,7 +164,7 @@ body {
 
 #sidemenu {
 	width: 25%;
-	margin-top: 20px;
+	margin-top: 30px;
 	padding-left: 25px;
 	margin-bottom: 10px;
 	float: left;
@@ -198,11 +198,12 @@ body {
 }
 
 #upload {
-	height: 300px;
+	height: 150px;
 	background-color: #A4A4A4;
 	padding: 30px;
 	margin: 30px;
 	border-radius: 25px;
+	width: 80%;
 }
 
 #upload p{
